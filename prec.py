@@ -1,0 +1,7 @@
+a=int(input("enter hostel fee:"))
+b=int(input("enetr course fee:"))
+print("fee calculator")
+print("--------------")
+print("hostel fee:",a)
+print("course fee:",b)
+print("total fee:",a+b)
